@@ -1,2 +1,2 @@
-# pstlit
-Projects in Streamlit
+# Streamlit Projects
+
